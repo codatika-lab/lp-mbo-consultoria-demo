@@ -3,14 +3,14 @@
 Landing page generada y publicada automaticamente por CDTK para **MBO Consultoria SST**.
 
 ## Datos del cliente
-- Project ID: NIT901998910
+- Project ID: MBOConsultoriaSST
 - Nombre del negocio: MBO Consultoria SST
 - Sector: consultorio
 - WhatsApp: +573112929491
 
 ## Publicacion
 - Publish target: preview_only
-- Generado el: 2026-09-23T23:31:39.051Z
+- Generado el: 2026-09-23T23:35:47.433Z
 
 Este repositorio contiene la landing publicada (`index.html`), los avisos de licencias (`THIRD_PARTY_NOTICES.md`) y el historial de generaciones (`.orchestrator-audit.jsonl`).
 Las licencias y atribuciones de los componentes incorporados están documentadas en [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md).
